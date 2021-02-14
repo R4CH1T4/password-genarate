@@ -1,2 +1,2 @@
 # password-genarate
-password repo
+password repo for password genarater
